@@ -1,5 +1,5 @@
 # C-projects
-This includes some C(using graphics) programs made by me.
+This includes some of my C graphics mini projects that go back to when I first started programming in high school.
 
 BUS_STATION
 <p>
